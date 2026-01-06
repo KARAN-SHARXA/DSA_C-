@@ -21,7 +21,7 @@ void printArray(int arr[], int size)
   }
 }
 int main()
-{ // 0,1,2,3,4,5 size = 6
+{ // 0,1,2,3,4size = 5
   int arr[] = {5, 6, 7, 81, 2, 3};
   int size = sizeof(arr) / sizeof(arr[0]);
 
